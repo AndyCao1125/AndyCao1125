@@ -1,5 +1,12 @@
 ## Hi there, this is Jiahang Cao 👋
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndyCao1125/AndyCao1125/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndyCao1125/AndyCao1125/refs/heads/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AndyCao1125/AndyCao1125/refs/heads/output/github-contribution-grid-snake.svg" />
+</picture>
+
 <!--
 **AndyCao1125/AndyCao1125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +22,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndyCao1125/AndyCao1125/refs/heads/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndyCao1125/AndyCao1125/refs/heads/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/AndyCao1125/AndyCao1125/refs/heads/output/github-contribution-grid-snake.svg" />
-</picture>
+
